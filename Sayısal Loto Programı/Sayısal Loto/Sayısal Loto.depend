@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644861295 source:d:\code blocks  udemy ders notlarý\c\diziler\sayýsal loto programý\sayýsal loto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

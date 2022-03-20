@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641410116 source:d:\code blocks  udemy ders notlarý\c\diziler\karakter dizileri\char dizileri falan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
